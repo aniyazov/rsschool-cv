@@ -25,7 +25,8 @@
 }
 .cut-info{
 	width: 330px;
-	border-right: 2px solid grey; 
+	border-right: 2px solid grey;
+	margin-right: 20px; 
 }
 .cut-info img{
 	width: 200px;
